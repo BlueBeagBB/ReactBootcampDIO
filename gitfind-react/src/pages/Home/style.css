@@ -1,0 +1,96 @@
+.conteudo {
+    position: relative;
+    align-items: flex-start;
+    flex-direction: column;
+    margin-left: 3rem;
+}
+
+.background {
+    height: 140vh;
+    position: absolute;
+    opacity: calc(3%);
+    left: 55rem;
+    top: -3rem;
+}
+
+.info {
+    display: block;
+    width: 60%;
+    margin-right: 90px;
+    margin-top: 40px;
+    color: #FFFFFF;
+}
+
+hr {
+    border: 3px solid #ffffff;
+    width: 50%;
+    margin: 20px 0;
+}
+
+input {
+    border: 1px solid #999999;
+    border-radius: 12px;
+    min-width: 250px;
+    color: #e5e5e5;
+    width: 80%;
+    margin-right: 12px;
+    background: transparent;
+    font-size: 18px;
+    padding: 10px;
+}
+
+button {
+    border: 1px solid #999999;
+    border-radius: 22px;
+    margin-right: 12px;
+    background: #2D333B;
+    color: #FFFFFF;
+    font-size: 18px;
+    padding: 10px;
+}
+
+
+.profile {
+    width: 120px;
+    display: flex;
+    margin: 20px 0;
+    height: 120px;
+    border-radius: 60px;
+    border: 2px solid #e5e5e5;
+    margin-right: 32px;
+}
+
+.perfil {
+    display: block;
+}
+
+.perfil h3 {
+    color: #ffffff;
+    font-size: 24px;
+    margin: 0;
+}
+
+.perfil span {
+    display: block;
+    color: #999999;
+    font-size: 12px;
+    margin: 0;
+}
+
+.perfil p {
+    display: block;
+    color: #999999;
+    font-size: 12px;
+    margin: 0;
+    margin-top: 20px;
+}
+
+.repositorio {
+    font-size: 22px;
+}
+
+h4 {
+    color: #ffffff;
+    font-size: 24px;
+    margin-bottom: 20px;
+}

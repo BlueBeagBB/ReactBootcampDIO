@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #1D2128;
+    color: white;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-color: #2C2F33;
+}
