@@ -98,9 +98,8 @@ src/
 
 Se você tiver alguma pergunta ou feedback sobre meus projetos:
 
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- [Email](mailto:seu.email@exemplo.com)
-- [Portfólio](https://seu-portfolio.com)
+- [LinkedIn](https://www.linkedin.com/in/gabriel-felipe-gomes-de-ara%C3%BAjo-7392a5264/)
+- [Email](mailto:gabrifelipegf@gmail.com)
 
 ---
 
